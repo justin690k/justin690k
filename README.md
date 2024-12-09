@@ -13,7 +13,7 @@ Hi there! I'm Justin, a passionate developer from Germany, always exploring new 
 Let’s connect and create something extraordinary together! 🌐
 
 <h3 align="center">🏆 Achievements </h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justin690k" alt="justin690k" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justin690k&theme=darkhub" alt="justin690k" /></a> </p>
 
 <h3 align="center">📫Connect with me</h3>
 <p align="center">
